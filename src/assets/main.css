@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  background: #000;
+  color: yellow;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
