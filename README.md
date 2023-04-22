@@ -6,7 +6,8 @@
 - CSS
 - VUE
 # Screenshot
-![screenshot](https://github.com/olawale-o/summitech-star-wars/blob/main/screenshot.png?raw=true")
+![screenshot](![tech](https://user-images.githubusercontent.com/57562869/233775485-065dbbef-bccf-452e-8a73-bfa212cd60ca.png)
+")
 
 # Demo link
 Visit Demo [link](https://summitech-star-wars.vercel.app/)
@@ -32,7 +33,7 @@ npm run serve
 ### Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page.](https://github.com/olawale-o/summitech-star-wars/issues)
+Feel free to check the [issues page.](https://github.com/moise10r/Tech-star-wars/issues)
 
 # Show your support
 Give a :star: if you like this project!
@@ -40,4 +41,3 @@ Give a :star: if you like this project!
 # Credits
 - Vercel
 - [SWAPI](https://swapi.dev/documentation)
-- [Summitech]
