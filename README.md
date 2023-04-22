@@ -6,8 +6,7 @@
 - CSS
 - VUE
 # Screenshot
-![screenshot](![tech](https://user-images.githubusercontent.com/57562869/233775485-065dbbef-bccf-452e-8a73-bfa212cd60ca.png)
-")
+![tech](https://user-images.githubusercontent.com/57562869/233775485-065dbbef-bccf-452e-8a73-bfa212cd60ca.png)
 
 # Demo link
 Visit Demo [link](https://summitech-star-wars.vercel.app/)
