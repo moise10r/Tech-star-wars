@@ -23,11 +23,11 @@ npm install
 npm run serve
 ```
 # Authors
-:bust_in_silhouette: Omoogun Olawale
+👤 NGANULO RUSHANIKA Moise
 
-- Github: [Github](https://github.com/olawale-o)
-- Twitter: [Twitter](https://twitter.com/ibreaktherules)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olawaleomoogun/)
+- GitHub: [@githubhandle](https://github.com/moise10r)
+- Twitter: [@twitterhandle](https://twitter.com/MRushanika)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nganulo-rushanika-mo%C3%AFse-626139197/)
 
 ### Contributing
 Contributions, issues, and feature requests are welcome!
